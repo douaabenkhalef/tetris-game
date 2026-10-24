@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# IntelliJ IDEA / JetBrains
+.idea/
+*.iml
+
+# Java build output
+*.class
+*.jar
+out/
+build/
+target/
+bin/
+
+# Compiled files
+*.log
